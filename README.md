@@ -1,13 +1,14 @@
-# Auth0 React App with 
+# Auth0 React App
 
-This repository contains a simple React application that demonstrates the integration of Auth0 authentication with React Router. Auth0 is used for secure and seamless user authentication, while React Router enables navigation between different views in the application.
+This is a simple React application integrated with Auth0 for authentication. The application demonstrates how to set up authentication using Auth0 in a React project.
 
 
-#Features
---Authentication Integration: The application utilizes the Auth0 React SDK to handle user authentication.
+## Features
 
---Router Integration: React Router is integrated to enable navigation between different views within the application.
+- User authentication with Auth0.
+- Routing with react-router-dom.
+- Minimalistic styling for a clean user interface.
 
---User Information Display: Upon authentication, the user's name and email are displayed in the main content section.
+
 
 
