@@ -2,8 +2,6 @@
 import React from 'react';
 import { Auth0Provider } from '@auth0/auth0-react';
 import { useNavigate } from 'react-router-dom';
-
-// Import Auth0 configuration from a JSON file
 import authConfig from './auth_config.json';
 
 // Functional component for providing Auth0 authentication with history
