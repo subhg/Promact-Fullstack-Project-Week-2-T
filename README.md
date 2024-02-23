@@ -4,10 +4,10 @@ This repository contains a simple React application that demonstrates the integr
 
 
 #Features
--- Authentication Integration: The application utilizes the Auth0 React SDK to handle user authentication.
+--Authentication Integration: The application utilizes the Auth0 React SDK to handle user authentication.
 
--- Router Integration: React Router is integrated to enable navigation between different views within the application.
+--Router Integration: React Router is integrated to enable navigation between different views within the application.
 
--- User Information Display: Upon authentication, the user's name and email are displayed in the main content section.
+--User Information Display: Upon authentication, the user's name and email are displayed in the main content section.
 
 
