@@ -1,48 +1,54 @@
-
 /* Add your styling here */
+
+/* Reset default margin and padding for the body */
 body {
-  font-family: 'Arial', sans-serif;
+  font-family: 'Arial', sans-serif;  
   margin: 0;
   padding: 0;
-  background-color: #f8f8f8;
+  background-color: #f8f8f8;  
 }
 
+/* Style for the main container of the app */
 .app-container {
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 20px;
-  background-color: #fff;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  max-width: 800px;  
+  margin: 0 auto;  
+  padding: 20px;  
+  background-color: #fff;  
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);  
 }
 
+/* Style for the header section */
 header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding-bottom: 20px;
-  border-bottom: 1px solid #ddd;
-  margin-bottom: 20px;
+  display: flex;  
+  justify-content: space-between;  
+  align-items: center;  
+  padding-bottom: 20px;  
+  border-bottom: 1px solid #ddd;  
+  margin-bottom: 20px;  
 }
 
+/* Style for buttons */
 button {
-  background-color: #007bff;
-  color: #fff;
-  padding: 10px 15px;
-  font-size: 16px;
-  border: none;
-  cursor: pointer;
+  background-color: #007bff;  
+  color: #fff;  
+  padding: 10px 15px;  
+  font-size: 16px;  
+  border: none;  
+  cursor: pointer;  
 }
 
+/* Hover effect for buttons */
 button:hover {
-  background-color: #0056b3;
+  background-color: #0056b3;  
 }
 
+/* Style for the main content section */
 main {
-  padding: 20px;
+  padding: 20px;  
 }
 
+/* Style for paragraphs */
 p {
-  font-size: 18px;
-  margin-bottom: 20px;
+  font-size: 18px;  
+  margin-bottom: 20px;  
 }
-
